@@ -1,5 +1,5 @@
 # PROJET LARAVEL RECETTES MASTER
-###### Fahmi FARHAT, Hicham NEGHIZ
+###### fait par Fahmi FARHAT, Hicham NEGHIZ
 
 ### Commandes utiles
 
