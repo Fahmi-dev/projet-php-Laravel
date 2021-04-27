@@ -27,7 +27,7 @@ php artisan migrate:refresh –seed
  Les données qui sont déjà dans la base de données sont importantes pour que le site fonctionne sans problèmes surtout pour l’accès à l’espace administrateur du site. 
 
 Le site web offre système de multi-authentification : 
-Connectez-vous en tant qu’administrateur. Vous pouvez UNIQUEMENT vous connecter avec deux comptes qui portent l’ID ## 11 ou bien 12 pour accéder à l’espace administrateur: 
+Connectez-vous en tant qu’administrateur. Vous pouvez UNIQUEMENT vous connecter avec deux comptes qui portent l’ID 11 ou bien 12 pour accéder à l’espace administrateur: 
 
 Email : toto@admin.com  /mot de passe : 12345678 
 son ID dans la base de données est 11 . 
