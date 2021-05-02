@@ -51,7 +51,7 @@ Dans le cas ou vous trouvez un problème pour vous connecter en tant qu’admini
 
 La partie programmation serveur est le produit de notre effort personnel. Nous avons essayé de personnaliser quelques codes trouvés sur internet seulement pour le design de notre site. 
 
-IMPORTANT !
+#### IMPORTANT !
 
 Il important que vous auriez accès à une connexion internet pour que certaines ressources CSS utilisées pour que le design de notre application marchent sans problème. 
 
